@@ -11,6 +11,8 @@ Created on Thu Sep  7 16:52:36 2023
 #
 # Name: JASON LAU
 #       ERIC LIU
+#       BRENDON GODFREY
+#       ZANDER STRICKLER
 # Section: 549
 # Assignment: Lab 3A
 # Date: 7 September 2023
