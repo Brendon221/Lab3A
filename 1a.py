@@ -11,7 +11,7 @@ Created on Thu Sep  7 16:06:27 2023
 #
 # Name: JASON LAU
 #       ERIC LIU
-#       BRENDAN GODFREY
+#       BRENDON GODFREY
 #       ZANDER STRICKLER
 #
 # Section: 549
