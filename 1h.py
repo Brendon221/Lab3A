@@ -21,6 +21,6 @@ Magnitude1= float(input("Enter First Richter Scale Value:"))
 Magnitude2 = float(input("Enter Second Richter Scale Value:"))
 EL1 = 10**(1.5*Magnitude1+4.4)
 EL2 = 10**(1.5*Magnitude2+4.4)
-Magnitude_diff = Magnitude2-Magnitude1
+Magnitude_diff = abs(Magnitude2-Magnitude1)
 Ratio = 10**(1.5*Magnitude_diff)
 print(f'The difference in two Richter Scale Values to the ratio of the energy released in two earthquakes is {Ratio}')
