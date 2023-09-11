@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+# By submitting this assignment, I agree to the following:
+# “Aggies do not lie, cheat, or steal, or tolerate those who do”
+# “I have not given or received any unauthorized aid on this assignment”
+#
+# Name: JASON LAU
+#       ERIC LIU
+#       BRENDON GODFREY
+#       ZANDER STRICKLER
+
+
+name = input("Insert a name: ")
+instrument = input("Insert an instrument: ")
+number = int(input("Insert a number from 2-10: ")) 
+game = input("Insert the name of a videogame: ")
+State = input("Insert the name of a state: ")
+action = input("Insert an action: ")
+
+print(f'\t There once was a person named {name}, they had played the {instrument} for {number*12} months.\n')
+print(f'\t They were once known as the best {instrument} player in {State}, however, that changed when they started playing \"{game}\". When they started playing \"{game}\" more, he also started {action} more.')
